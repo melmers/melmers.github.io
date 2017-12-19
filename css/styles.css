@@ -1,11 +1,14 @@
 
-.codetbl {
+table, th, td {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+ .codetbl {
     background: rgb(250, 223, 176);
     text-align: left;
-    width: 100%;
-    border: 1px;
-    cellpadding: 2px;
-    cellspacing: 2px;
+    width: 70%;
 }
 
 .prj-name {
@@ -14,7 +17,6 @@
 }
 
 .prj-desc {
-    width: 55%;
 }
 
 .prj-lang {
