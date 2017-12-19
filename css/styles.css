@@ -1,4 +1,30 @@
 
 .codetbl {
     background: rgb(250, 223, 176);
+    text-align: left;
+    width: 100%;
+    border="1";
+    cellpadding="2";
+    cellspacing="2";
+}
+
+.prj-name {
+    font-weight: bold;
+    width: 25%;
+}
+
+.prj-desc {
+    style="width: 55%;
+}
+
+.prj-lang {
+
+}
+
+.prj-links {
+
+}
+
+.prj-link-text {
+    
 }
