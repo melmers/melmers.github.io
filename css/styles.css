@@ -3,9 +3,9 @@
     background: rgb(250, 223, 176);
     text-align: left;
     width: 100%;
-    border="1";
-    cellpadding="2";
-    cellspacing="2";
+    border: 1px;
+    cellpadding: 2px;
+    cellspacing: 2px;
 }
 
 .prj-name {
@@ -14,7 +14,7 @@
 }
 
 .prj-desc {
-    style="width: 55%;
+    width: 55%;
 }
 
 .prj-lang {
@@ -26,5 +26,5 @@
 }
 
 .prj-link-text {
-    
+
 }
