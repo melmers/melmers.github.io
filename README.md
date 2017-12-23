@@ -56,7 +56,7 @@ in browser</a></td>
 <table>
 <tbody>
 <tr>
-<td>angular demo</td>
+<td style="width: 25%;">angular demo</td>
 <td>
 Demo of displaying data from a REST api using Angular JS
 </td>
