@@ -1,17 +1,17 @@
 This site provides links to the projects hosted here by melmers:
 
-<table class="codetbl">
+<table>
 <tbody>
 <tr>
-<td class="prj-name">Fanart-GCal</td>
-<td class="prj-desc">
+<td style="width: 25%;">Fanart-GCal</td>
+<td>
 Makes calls Google Calendar API to display events with
 artwork and fanart style backgrounds. &nbsp;Searches for matching
 videos on YouTube.
 </td>
 </tr>
 <tr>
-<td class="prj-lang">
+<td>
 Written in
 </td>
 <td>
@@ -19,19 +19,19 @@ JavaScript
 </td>
 </tr>
 <tr>
-<td class="prj-links">Links:</td>
-<td class="prj-link-text" ><a href="https://github.com/melmers/fanart-gcal">Code
+<td>Links:</td>
+<td><a href="https://github.com/melmers/fanart-gcal">Code
 on GitHub</a> - <a href="https://melmers.github.io/fanart-gcal/" target="_blank">Demo
 in browser</a></td>
 </tr>
 </tbody>
 </table>
 <br>
-<table class="codetbl">
+<table>
 <tbody>
 <tr>
-<td class="prj-name">Fanart-FB-Events</td>
-<td class="prj-desc">
+<td style="width: 25%;">Fanart-FB-Events</td>
+<td>
 Calls Facebook Graph API to display events with
 artwork and fanart style backgrounds.
 </td>
@@ -53,11 +53,11 @@ in browser</a></td>
 </tbody>
 </table>
 <br>
-<table class="codetbl">
+<table>
 <tbody>
 <tr>
-<td class="prj-name">angular demo</td>
-<td class="prj-desc">
+<td>angular demo</td>
+<td>
 Demo of displaying data from a REST api using Angular JS
 </td>
 </tr>
@@ -78,11 +78,11 @@ in browser</a></td>
 </tbody>
 </table>
 <br>
-<table class="codetbl">
+<table>
 <tbody>
 <tr>
-<td class="prj-name">XML3D</td>
-<td class="prj-desc">
+<td style="width: 25%;">XML3D</td>
+<td>
 Demo of various 3D displays including animation running in the browser.
 &nbsp;I recommend the Xflow-Skinning demo.
 </td>
