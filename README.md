@@ -56,7 +56,7 @@ in browser</a></td>
 <table>
 <tbody>
 <tr>
-<td style="width: 25%;">Fanart-FB-Events AngularJS</td>
+<td style="width: 25%;">Fanart-FB-Events-Ng</td>
 <td>
 Calls Facebook Graph API to display events with
 artwork and fanart style backgrounds.
