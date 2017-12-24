@@ -56,9 +56,10 @@ in browser</a></td>
 <table>
 <tbody>
 <tr>
-<td style="width: 25%;">angular demo</td>
+<td style="width: 25%;">Fanart-FB-Events AngularJS</td>
 <td>
-Demo of displaying data from a REST api using Angular JS
+Calls Facebook Graph API to display events with
+artwork and fanart style backgrounds.
 </td>
 </tr>
 <tr>
@@ -66,13 +67,13 @@ Demo of displaying data from a REST api using Angular JS
 Written in
 </td>
 <td>
-Angular JS
+AngularJS
 </td>
 </tr>
 <tr>
 <td>Links:</td>
 <td><a href="https://github.com/melmers/fanart-fb-events-ng">Code
-on GitHub</a> - <a href="http://stonegaterocks.com/testng/" target="_blank">Demo
+on GitHub</a> - <a href="https://melmers.github.io/fanart-fb-events-ng/" target="_blank">Demo
 in browser</a></td>
 </tr>
 </tbody>
