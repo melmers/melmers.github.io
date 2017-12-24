@@ -3,7 +3,7 @@ This site provides links to the projects hosted here by melmers:
 <table>
 <tbody>
 <tr>
-<td style="width: 25%;">Fanart-GCal</td>
+<td style="width: 30%;">Fanart-GCal</td>
 <td>
 Makes calls Google Calendar API to display events with
 artwork and fanart style backgrounds. &nbsp;Searches for matching
@@ -30,7 +30,7 @@ in browser</a></td>
 <table>
 <tbody>
 <tr>
-<td style="width: 25%;">Fanart-FB-Events</td>
+<td style="width: 30%;">Fanart-FB-Events</td>
 <td>
 Calls Facebook Graph API to display events with
 artwork and fanart style backgrounds.
@@ -56,7 +56,7 @@ in browser</a></td>
 <table>
 <tbody>
 <tr>
-<td style="width: 25%;">Fanart-FB-Events-Ng</td>
+<td style="width: 30%;">Fanart-FB-Events-Ng</td>
 <td>
 Calls Facebook Graph API to display events with
 artwork and fanart style backgrounds.
@@ -82,7 +82,7 @@ in browser</a></td>
 <table>
 <tbody>
 <tr>
-<td style="width: 25%;">XML3D</td>
+<td style="width: 30%;">XML3D</td>
 <td>
 Demo of various 3D displays including animation running in the browser.
 &nbsp;I recommend the Xflow-Skinning demo.
