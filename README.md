@@ -22,7 +22,6 @@ in browser</a>
 </tr>
 </tbody>
 </table>
-<br>
 <table>
 <tbody>
 <tr>
@@ -44,7 +43,6 @@ in browser</a>
 </tr>
 </tbody>
 </table>
-<br>
 <table>
 <tbody>
 <tr>
@@ -66,7 +64,6 @@ in browser</a>
 </tr>
 </tbody>
 </table>
-<br>
 <table>
 <tbody>
 <tr>
@@ -88,7 +85,3 @@ in browser</a>
 </tr>
 </tbody>
 </table>
-
-
-
-
