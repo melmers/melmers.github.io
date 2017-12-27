@@ -12,17 +12,13 @@ videos on YouTube.
 </tr>
 <tr>
 <td>
-Written in
-</td>
-<td>
 JavaScript
 </td>
-</tr>
-<tr>
-<td>Links:</td>
-<td><a href="https://github.com/melmers/fanart-gcal">Code
+<td>
+<a href="https://github.com/melmers/fanart-gcal">Code
 on GitHub</a> - <a href="https://melmers.github.io/fanart-gcal/" target="_blank">Demo
-in browser</a></td>
+in browser</a>
+</td>
 </tr>
 </tbody>
 </table>
@@ -38,17 +34,13 @@ artwork and fanart style backgrounds.
 </tr>
 <tr>
 <td>
-Written in
-</td>
-<td>
 PHP
 </td>
-</tr>
-<tr>
-<td>Links:</td>
-<td><a href="https://github.com/melmers/fanart-fb-events">Code
+<td>
+<a href="https://github.com/melmers/fanart-fb-events">Code
 on GitHub</a> - <a href="http://stonegaterocks.com/test/" target="_blank">Demo
-in browser</a></td>
+in browser</a>
+</td>
 </tr>
 </tbody>
 </table>
@@ -64,17 +56,13 @@ artwork and fanart style backgrounds.
 </tr>
 <tr>
 <td>
-Written in
-</td>
-<td>
 AngularJS
 </td>
-</tr>
-<tr>
-<td>Links:</td>
-<td><a href="https://github.com/melmers/fanart-fb-events-ng">Code
+<td>
+<a href="https://github.com/melmers/fanart-fb-events-ng">Code
 on GitHub</a> - <a href="https://melmers.github.io/fanart-fb-events-ng/" target="_blank">Demo
-in browser</a></td>
+in browser</a>
+</td>
 </tr>
 </tbody>
 </table>
@@ -90,17 +78,13 @@ Demo of various 3D displays including animation running in the browser.
 </tr>
 <tr>
 <td>
-Written in
-</td>
-<td>
 PHP
 </td>
-</tr>
-<tr>
-<td>Links:</td>
-<td><a href="https://github.com/melmers/xml3d">Code
+<td>
+<a href="https://github.com/melmers/xml3d">Code
 on GitHub</a> - <a href="http://stonegaterocks.com/xml3d/" target="_blank">Demo
-in browser</a></td>
+in browser</a>
+</td>
 </tr>
 </tbody>
 </table>
