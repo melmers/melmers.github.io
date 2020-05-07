@@ -3,6 +3,26 @@ This site provides links to the projects hosted here by melmers:
 <table>
 <tbody>
 <tr>
+<td style="width: 30%;">iChing</td>
+<td>
+Throw the coins and see the hexagrams, and look them up on several other sites.
+</td>
+</tr>
+<tr>
+<td>
+Angular JS
+</td>
+<td>
+<a href="https://github.com/melmers/iching">Code
+on GitHub</a> --- <a href="https://melmers.github.io/iching/" target="_blank">Demo
+in browser</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
 <td style="width: 30%;">Fanart-GCal</td>
 <td>
 Makes calls Google Calendar API to display events with
