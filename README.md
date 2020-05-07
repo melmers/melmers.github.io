@@ -13,8 +13,8 @@ Throw the coins and see the hexagrams, and look them up on several other sites.
 Angular JS
 </td>
 <td>
-<a href="https://github.com/melmers/iching">Code
-on GitHub</a> --- <a href="https://melmers.github.io/iching/" target="_blank">Demo
+<a href="https://github.com/melmers/iChing">Code
+on GitHub</a> --- <a href="https://melmers.github.io/iChing/" target="_blank">Demo
 in browser</a>
 </td>
 </tr>
