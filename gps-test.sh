@@ -1,1 +1,0 @@
-python gps-test.py
