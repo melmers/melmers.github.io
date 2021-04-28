@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <body>
+
+    <script>
+      var app = angular.module("myCaliperDisplay", []); 
+      app.controller("myCaliperCtrl", function($scope) {
+        $scope.CaliperNbr = 0;              // init
+        $scope.CaliperNbr2 = 0;             // init
+        $scope.calcCaliper = function() {   // calc function
+          $scope.CaliperNbr = Number($scope.CaliperText);
+          $scope.CaliperNbr2 = $scope.CaliperNbr * 2;
+        }
+      });
+    </script>
+
+    <div ng-app="myCaliperDisplay" ng-controller="myCaliperCtrl" ng-init="selTab='0'">
+      <textarea type="text" class="boxCaliper" ng-model="CaliperText" ng-change="calcCaliper()" placeholder='Enter your Caliper value here'></textarea><br>
+
+      <!-- Tab links -->
+      <div>
+        <button ng-click="selTab='0'">Pipes</button>
+        <button ng-click="selTab='1'">Wires</button>
+        <button ng-click="selTab='2'">Conduit</button>
+      </div>
+
+      <!-- Tab content -->
+      <div id="Pipes" ng-show="selTab == '0'">
+        <h3>Pipe Calculations</h3>
+        <table>
+          <tr>
+            <th>Outside</th>
+            <th>Inside</th>
+            <th>Thickness</th>
+          </tr>
+          <tr>
+            <td>{{ CaliperNbr }}</td>
+            <td>{{ CaliperNbr2 }}</td>
+            <td>{{ CaliperNbr*4.0 }}</td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="Wires" ng-show="selTab == '1'">
+        <h3>Wire Calculations</h3>
+        <table>
+          <tr>
+            <th>Diameter</th>
+            <th>Outside</th>
+            <th>Length</th>
+          </tr>
+          <tr>
+            <td>{{ CaliperNbr+4 }}</td>
+            <td>{{ CaliperNbr2+4 }}</td>
+            <td>{{ (CaliperNbr*4.0)+4 }}</td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="Conduit" ng-show="selTab == '2'">
+        <h3>Conduit Calculations</h3>
+        <table>
+          <tr>
+            <th>Outside</th>
+            <th>Inside</th>
+            <th>Thickness</th>
+          </tr>
+          <tr>
+            <td>{{ CaliperNbr*8 }}</td>
+            <td>{{ CaliperNbr2*8 }}</td>
+            <td>{{ CaliperNbr*4.0+20 }}</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+  </body>
+</html>
